@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] **Go to the military registration and enlistment office**<br>Personal @{29-10-2023}
 - [ ] **Pick up a sleeping mattress**<br>☀
+- [ ] **Send "Integrity"**<br>Kyiv @{24-10-2023}
 
 
 ## In Progress
