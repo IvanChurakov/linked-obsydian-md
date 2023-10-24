@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] **Go to the military registration and enlistment office**<br>Personal @{29-10-2023}
 - [ ] **Pick up a sleeping mattress**<br>☀
-- [ ] **Go to Kirovograd**<br>Personal @{22-10-2023}
 
 
 ## In Progress
@@ -19,6 +18,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] **Go to Kirovograd**<br>Personal @{22-10-2023}
 - [x] **View refrigerators**<br>☀
 - [x] **Pick up the sleeping bed**<br>☀
 - [x] **Check Themes in Obsidian**<br>Personal
