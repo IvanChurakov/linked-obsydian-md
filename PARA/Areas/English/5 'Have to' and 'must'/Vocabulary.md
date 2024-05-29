@@ -82,3 +82,49 @@ speaking about your beliefs forcefully in the hope others will agree with you
 
 **actions speak louder than words**
 a phrase that means what you do is more important than what you say, and has more influence over people
+
+---
+### 6 Minute Vocabulary: Binomials
+
+**Sick and tired** is a phrase which means annoyed and bored. Phrases like this with two nouns joined by and are very common and useful in English. They're called **binomials**.
+
+Here are a few more:
+
+**aches and pains**
+
+general body pains that aren’t serious
+
+_A warm bath is great for aches and pains._
+
+
+**cheap and cheerful**
+
+simple, basic and often inexpensive
+
+_The cafe was cheap and cheerful but the food was great._
+
+
+**short and sweet**
+
+quick and simple
+
+_Our Monday meetings are always short and sweet._
+
+
+**black and blue**
+
+sore and bruised
+
+_Look at these bruises – I’m black and blue._
+
+
+**quick and dirty**
+
+short, simple and basic
+
+_It was a one-minute quick and dirty presentation._
+
+---
+### Vocabulary tip
+
+To help you remember the binomials, why not play a simple card game where you match up the beginnings and ending. This will really help you to remember them.
