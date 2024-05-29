@@ -15,8 +15,7 @@
 **Nice to meet you.**
 
 ---
-
-### **General vocabulary from Unit 1**
+### General vocabulary from Unit 1
 
 **folks** - an informal word for a group of people
 
@@ -27,7 +26,6 @@
 **fed up** - bored or annoyed
 
 ---
-
 ### 6 Minute Vocabulary Unit 1: Suffixes
 
 **-ee** creates a noun meaning 'person who receives an action'.
