@@ -26,48 +26,37 @@ We use **the**: 
 
 1) before singular nouns that we have already mentioned with **a/an**: 
 
-_We saw **an elephant. The elephant** was standing under some trees._ 
-
+- _We saw **an elephant. The elephant** was standing under some trees._ 
 
 2) before singular, plural or uncountable nouns when we say exactly which person or thing we mean: 
 
-**_The people_** _**who live next door** are really nice._
-
-_Where's **the brown sugar**?_ 
+- **_The people_** _**who live next door** are really nice._
+- _Where's **the brown sugar**?_ 
 
 Note that we don't use **the** before plural and uncountable nouns when we are talking about things in general:
 
-**_Children_** _need plenty of exercise and fresh air._ (children in general) 
-
-**_Sugar_** _isn't good for you._ (sugar in general)
-
+- **_Children_** _need plenty of exercise and fresh air._ (children in general) 
+- **_Sugar_** _isn't good for you._ (sugar in general)
 
 3) We also use **the** before singular, plural or uncountable nouns when it is clear which person or thing we mean:
 
-_I'm going to **the supermarket**._ (the one we always go to) 
-
-**_The children_** _are upstairs._ (our children) 
-
-_Could you shut **the door**?_ (the door of this room) 
-
+- _I'm going to **the supermarket**._ (the one we always go to) 
+- **_The children_** _are upstairs._ (our children) 
+- _Could you shut **the door**?_ (the door of this room) 
 
 4) We use **the** before nouns when there is only one:
 
-**_The sun_** _is shining and there aren't any clouds in **the sky**_. 
-
+- **_The sun_** _is shining and there aren't any clouds in **the sky**_. 
 
 5) We use **the** with superlatives:
 
-_You're **the best dad** ever!_
-
+- _You're **the best dad** ever!_
 
 6) We use **the** in many expressions with '**of**' 
 
-_In **the** middle of the night_
-
-_**The** Kingdom of Saudi Arabia_
-
-_At **the** end of my holiday_
+- _In **the** middle of the night_
+- _**The** Kingdom of Saudi Arabia_
+- _At **the** end of my holiday_
 
 ---
 ### The or zero article?
@@ -108,11 +97,9 @@ If someone is at the place because they are a student / are sick / a prisoner, e
 
 Adjectives go between articles and nouns: 
 
-*What **a great place** this is!*
-
-*I went on **an amazing trip**.*
-
-*We went to **the famous Bondi beach**.*
+- *What **a great place** this is!*
+- *I went on **an amazing trip**.*
+- *We went to **the famous Bondi beach**.*
 
 ---
 ### Pronouncing articles
