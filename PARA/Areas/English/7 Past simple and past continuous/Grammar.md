@@ -2,23 +2,18 @@
 
 We use the past simple for something that happened and finished in the past. We use it when we say or know the time when something happened. It is often used in stories, when one thing happened after another.
 
-_Last year, we **travelled** by jeep across the Sahara._
-
-_When the car **stopped**, we all **got** out_.
-
+- _Last year, we **travelled** by jeep across the Sahara._
+- _When the car **stopped**, we all **got** out_.
 
 We use the past continuous for something that happened in the past but was not finished at a particular time. This can be an exact time in the past (12 o’clock, etc.) or the time when another thing happened.
 
-_It was 12 o’clock and we **were standing** in the midday sun._
-
-_Mick **was checking** the engine when the rescue helicopter arrived._
-
+- _It was 12 o’clock and we **were standing** in the midday sun._
+- _Mick **was checking** the engine when the rescue helicopter arrived._
 
 We also use the past continuous to describe a scene or situation in the past or for an action that continued for some time.
 
-_The stars **were beginning** to come out._
-
-_The dog **was barking** loudly._
+- _The stars **were beginning** to come out._
+- _The dog **was barking** loudly._
 
 ---
 ### Form
@@ -27,41 +22,38 @@ _The dog **was barking** loudly._
 
 For regular verbs, the past simple ends in **-ed.** Irregular verbs have different forms. The past simple form is the same for all persons (_I, you, he, she,_ etc).
 
-_Suddenly the jeep **skidded** and **stopped**._
-
-_Jake **thought** that we had a puncture._
-
+- _Suddenly the jeep **skidded** and **stopped**._
+- _Jake **thought** that we had a puncture._
 
 #### Past continuous: positive
 
 The past continuous is **subject** **+** **was/were** **+** **-ing form**. There are no short forms of **was/were**.
 
-_Fortunately, we **were carrying** a toolkit._
-
+- _Fortunately, we **were carrying** a toolkit._
 
 #### Past simple: negative
+
 We make the negative past simple with **didn’t** **+** **infinitive**.
 
-_We **didn’t stay** inside the jeep because that was even hotter_.
-
+- _We **didn’t stay** inside the jeep because that was even hotter_.
 
 #### Past continuous: negative
+
 We make the negative past continuous with **wasn’t/weren’t + -ing form**
 
-_Despite the heat, Jess and Debs **weren’t wearing** hats._
-
+- _Despite the heat, Jess and Debs **weren’t wearing** hats._
 
 #### Past simple: question
 
 The past simple question form is **did** **+** **subject** **+** **infinitive** for all persons. The short answers are **Yes, I did. / No, I didn’t**.
 
-**_Did_** _the helicopter **land** in the desert? Yes **it did**._
+- **_Did_** _the helicopter **land** in the desert? Yes **it did**._
 
 #### Past continuous: question
 
 The past continuous question form is **was/were + subject + -ing** form. The short answers are **Yes, I was. / No, I wasn’t**.
 
-_How **were you feeling** when it arrived?_
+- _How **were you feeling** when it arrived?_
 
 ---
 ### Take note: spelling changes
