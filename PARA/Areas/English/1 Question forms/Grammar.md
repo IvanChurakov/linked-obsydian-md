@@ -23,27 +23,27 @@ Emily: **About half an hour ago.**_
 
 **Yes/no questions** that begin with the verb **to be** are made with **to be + subject.**
 
-_**Are you** playing football tomorrow?_
+- _**Are you** playing football tomorrow?_
 
-_**Was the weather** nice yesterday?_
+- _**Was the weather** nice yesterday?_
 
 If we start with an **auxiliary verb**, the order is **auxiliary + subject + main verb**.
 
-**_Can Jenny speak_** _Chinese?_**_Did you go_** _to the cinema on Saturday?_
+- **_Can Jenny speak_** _Chinese?_ **_Did you go_** _to the cinema on Saturday?_
 
 **Wh-questions** can be used to ask about the **subject** or **object** of the verb. Compare these questions:
 
-**_Who loves Lucy?  
-Who does Lucy love?_**
+- **_Who loves Lucy?  
+- **Who does Lucy love?_**
 
 For **subject** questions, the order is **question word + verb + object**.
 
-**_Who wants ice cream_** _for dessert?_**_Who broke the mirror_** _in the dining room?_**_Who answered the phone_**_?_
+- **_Who wants ice cream_** _for dessert?_**_Who broke the mirror_** _in the dining room?_**_Who answered the phone_**_?_
 
 The **object** question form is **question word + auxiliary + subject + verb**.
 
-**_What did you_** _**do** at the weekend?_**_Where does your brother_** **_work_**_?  
-**Who will you_** _**ask** for help?_
+- **_What did you_** _**do** at the weekend?_**_Where does your brother_** **_work_**_?  
+- **Who will you_** _**ask** for help?_
 
 ---
 ### Take Note
@@ -52,9 +52,9 @@ The **object** question form is **question word + auxiliary + subject + verb*
 
 The question word how is usually combined with other words when asking for information, such as size, someone’s age, or the price of something.
 
-_**How big** is your apartment?_
-_**How old** are your children now?_  
-_**How much** is the black dress in the window?_
+- _**How big** is your apartment?_
+- _**How old** are your children now?_  
+- _**How much** is the black dress in the window?_
 
 ---
 ### Spoken English

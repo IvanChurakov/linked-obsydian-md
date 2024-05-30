@@ -9,9 +9,8 @@ We use the present simple for:
 
 We often use adverbs of frequency and time expressions like **every day, once a week, on Fridays**.
 
-_**I check** my email **every day**._ (regular activity)
-_**Sheryl works** at the bank._ (permanent situation)
-
+- _**I check** my email **every day**._ (regular activity)
+- _**Sheryl works** at the bank._ (permanent situation)
 
 We use the present continuous for:
 
@@ -21,49 +20,45 @@ We use the present continuous for:
 
 We often use time expressions like **at the moment, today, this week**.
 
-_Just a minute. I_**_’m checking_** _my email._ (now)
-
-_She usually works in London, but she_**_’s working_** _from home this_ week. (temporary situation)
-
-_I’_**_m studying_** _Economics_ (activity in progress)
+- _Just a minute. I_**_’m checking_** _my email._ (now)
+- _She usually works in London, but she_**_’s working_** _from home this_ week. (temporary situation)
+- _I’_**_m studying_** _Economics_ (activity in progress)
 
 ---
 ### Form - Positive
 
 The present simple has the same form as the infinitive without 'to'’ for _I_, _you_, _we_ and _they_. For _he_, _she_ and _it_, we add **-s** or **-es** to the infinitive.
 
-_They **live** in Rome._
-_Julian **starts** work at nine o’clock and **finishes** at five_.
+- _They **live** in Rome._
+- _Julian **starts** work at nine o’clock and **finishes** at five_.
 
 The present continuous for _I_ is **subject + am + verb-ing** For _you_, _we_ and _they_: **subject** **+** **are** **+ -verb-ing.** For _he_, _she_, _it:_ **subject** **+** **is** **+ verb-ing.** We usually use contractions (_I’m, he’s, they’re,_ etc.) when we are speaking.
 
-_Can I call you back later? We_**_’re having_** dinner right now.
+- _Can I call you back later? We_**_’re having_** dinner right now.
 
 ---
 ### Form - Negative
 
 The negative present simple is **subject** **+** **don’t** (do not) **+** **infinitive without 'to'** for _I_, _you_, _we_ and _they_, and **subject** **+** **doesn’t** (does not) **+** **infinitive without 'to'** for _he_, _she_ and _it_.
 
-**_I_** _**don’t eat** meat._**_It_** **_doesn’t_** _usually **snow** in October._
+- **_I_** _**don’t eat** meat._**_It_** **_doesn’t_** _usually **snow** in October._
 
 The negative present continuous for _I_ is **I’m not + verb-ing.**  For _you_, _we_ and _they_: **subject** **+** **aren’t** **+ verb-ing.** For _he_, _she_, _it:_ **subject** **+** **isn’t** **+ verb-ing.**
 
-**_He isn’t answering_** _his mobile at the moment._
+- **_He isn’t answering_** _his mobile at the moment._
 
 ---
 ### Form - questions
 
 The present simple question form is **do/does** **+** **subject** **+** **infinitive without ‘to’**.
 
-**_Do you read_** _the news online every day_?
-
-**_Does the supermarket sell_** _stamps_?
+- **_Do you read_** _the news online every day_?
+- **_Does the supermarket sell_** _stamps_?
 
 The present continuous question form is **am/is/are + subject + verb-ing.** 
 
-_What **are** **you doing**_?
-
-**_Is it raining_**?
+- _What **are** **you doing**_?
+- **_Is it raining_**?
 
 ---
 ### Take note: spelling changes

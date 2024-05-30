@@ -4,7 +4,7 @@ The word **like** can be used in a number of different ways. In this unit we l
 
 **1. Like** can be used as a **verb** to express a preference or interest in a person, place or thing.
 
-_I like your earrings. Where did you get them?_
+- _I like your earrings. Where did you get them?_
 
 **2. Like** can also be used as a **preposition** to ask for a description of a person, place or thing.
 
@@ -25,21 +25,18 @@ _Emily: No, I don’t._
 
 #### Positive
 
-_I **like** shopping._
-
-_Bob **likes** playing football._
+- _I **like** shopping._
+- _Bob **likes** playing football._
 
 #### Negative
 
-_I **don’t** **like** sports._
-
-_Emily **doesn’t** **like** reading._
+- _I **don’t** **like** sports._
+- _Emily **doesn’t** **like** reading._
 
 #### Question
 
-**_Do_** _you **like** horror movies?_
-
-**_Does_** _Bob **like** cartoons?_
+- **_Do_** _you **like** horror movies?_
+- **_Does_** _Bob **like** cartoons?_
 
 ---
 ### Form (as preposition)
@@ -57,37 +54,33 @@ _Jamie: It’s hot and sunny._
 
 When asking for preference, we use **like** with **do** or **does** in the question.
 
-**_Do_** _you **like** playing tennis?_
-
-_What sports **do** you **like**?_ 
+- **_Do_** _you **like** playing tennis?_
+- _What sports **do** you **like**?_ 
 
 We don’t use **do** or **does** when asking for a description. Instead, we start the question with **what** and end with **like**.
 
-**_What_** _is she **like**?_
-
-**_What_**_’s London **like**?_
-
-**_What_** _was your weekend **like**?_
+- **_What_** _is she **like**?_
+- **_What_**_’s London **like**?_
+- **_What_** _was your weekend **like**?_
 
 ---
 ### Take note: Time and place
 
 We can specify time and place when asking for a description by using a phrase at the end of the question.
 
-_What will the weather be like **next weekend**?_
-
-_What are the beaches like **in Barcelona**?_
+- _What will the weather be like **next weekend**?_
+- _What are the beaches like **in Barcelona**?_
 
 ---
 ### Spoken English
 
 In formal speech (or writing), each word in a question usually appears separately.
 
-**_What is_** _your new house like?_
+- **_What is_** _your new house like?_
 
 However, we usually use contractions in informal speech (and writing).
 
-**_What’s_** _your new house like?_
+- **_What’s_** _your new house like?_
 
 ---
 ### Practice
