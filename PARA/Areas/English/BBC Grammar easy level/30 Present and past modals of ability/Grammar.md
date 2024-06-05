@@ -13,7 +13,7 @@ To talk about ability in the past, we use **could** or **be able to**.
 For a single event in the past, we use **be able to** (not **could**)in positive statements_._
 
 - _Our guide **was able to show** us the caves where the bushmen lived._
-- **NOT:** _Our guide couldshow us the caves where the bushmen lived._
+- **NOT:** _Our guide could show us the caves where the bushmen lived._
 
 However, in negative statements and questions about single events, we can use **could** or **be able to**.
 
