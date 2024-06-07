@@ -10,7 +10,7 @@ To talk about ability in the past, we use **could** or **be able to**.
 - _20 years ago, the Kalahari bushmen **could make** fire without matches._
 - _They **were able to survive** without fresh water for three weeks._
 
-For a single event in the past, we use **be able to** (not **could**)in positive statements_._
+For a single event in the past, we use **be able to** (not **could**)in positive statements.
 
 - _Our guide **was able to show** us the caves where the bushmen lived._
 - **NOT:** _Our guide could show us the caves where the bushmen lived._
